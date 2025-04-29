@@ -1,0 +1,3 @@
+
+performing write operations using a mode
+welocme to python
